@@ -1,6 +1,3 @@
-
-
-
 # Recipe Name
 
 ![Template image](../images/path to image)
