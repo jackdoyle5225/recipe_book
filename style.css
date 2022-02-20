@@ -1,0 +1,100 @@
+/* main body stuff */
+html {
+    background-color: #121212;
+    color: #cacaca;
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    width: 100%;
+    height: 100%;
+    font-family: sans-serif;
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+a {
+    color: #cacaca;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #cacaca;
+    text-decoration: none;
+}
+
+a:hover {
+    color: pink;
+    text-decoration: none;
+}
+
+h3 {
+    color: pink;
+
+}
+
+/* centre aligning stuff */
+.main {
+    margin-left: 160px;
+    margin-bottom: 45px;
+    padding: 0px 10px;
+    text-align: center;
+}
+
+/* weird list formatting stuff */
+.main ul {
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+}
+.main ol {
+    width: 600px;
+    word-wrap: break-word;
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+}
+
+/* recipe list stuff */
+.sidebar {
+    padding: 10px;
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #1c1c1c;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidebar p {
+    color: pink;
+}
+
+
+/* footer stuff */
+.footer {
+    position: fixed;
+    width: 100%;
+    margin-left: 160px;
+    height: 35px;
+    bottom: 0;
+    background-color: #1c1c1c;
+    color: #cacaca;
+    font-size: 11px;
+    text-align: center;
+}
+
+.footer a {
+    color:pink;
+}
+
+.footer a:hover {
+    color:white;
+}
+
+/* mobile compatibility */
