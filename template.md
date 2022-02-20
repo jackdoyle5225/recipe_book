@@ -1,5 +1,4 @@
-
-
+Recipe Title
 
 # Recipe Name
 
