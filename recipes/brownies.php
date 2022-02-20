@@ -12,7 +12,7 @@
 <!-- recipe -->
 <div class="main">
     <h1 id="brownies">Ciara's Brownies</h1>
-    <p><img src="../images/path to image" alt="Template image"></p>
+    <p><img src="../images/path to image" alt="brownies"></p>
     <h3 id="ingredients">Ingredients</h3>
     <ul>
     <li>250g butter</li>
