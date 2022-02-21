@@ -1,24 +1,32 @@
 <?php
-//script to read file & get data from markdown recipes
+    include 'Parsedown.php';
+
+    $filename = 'recipes/burger_sauce.md';
+    $file = fopen($filename, 'r');
+    $line = file($filename);
 ?>
 
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title> <!-- this will be a php variable-->
-    <link rel="stylesheet" href="../style.css">
+    <title><?php echo $line[0]; ?></title> <!-- this will be a php variable-->
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <!-- recipe list -->
-<?php include '../recipe_sidebar.php'; ?>
+<?php include 'recipe_sidebar.php'; ?>
 
 <!-- recipe -->
 <div class="main">
-<!-- this will be a parsedown script to display main body of the recipe --> 
+<!--dynamically generate sidebar & use switch statement w recipe array varaible for recipe selection from sidebar -->
+<?php 
+    $parsedown = new Parsedown();
+    echo $parsedown->text(fread($file, filesize($filename)));
+?>
 </div>
 
 <!-- footer -->
-<?php require '../footer.php'; ?>
+<?php require 'footer.php'; ?>
 </body>
 </html>
 </body>

@@ -1,9 +1,9 @@
 <?php include 'Parsedown.php'; ?>
 
 <?php
+    $parsedown = new Parsedown();
 
-    $Parsedown = new Parsedown();
     $file = fopen('template.md', 'r');
-
-    echo $Parsedown->text(fread($file, filesize('template.md')));
+    $line = file('template.md');
+    echo $parsedown->text(fread($file, filesize('template.md')));
 ?>
