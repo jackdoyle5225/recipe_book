@@ -19,7 +19,9 @@
         <div class="cards">
             <div class="row">
             <div class="column">
-                <div class="card">Card 1</div>
+                <div class="card">
+                <img src="images/pizza.jpg" width="60" height="60" alt="Pizza">
+                </div>
             </div>
             <div class="column">
                 <div class="card">Card 2</div>

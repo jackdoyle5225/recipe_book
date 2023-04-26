@@ -3,7 +3,7 @@
 <?php
     $parsedown = new Parsedown();
 
-    $file = fopen('template.md', 'r');
+    $file = fopen('burger_sauce.md', 'r');
     $line = file('template.md');
     echo $parsedown->text(fread($file, filesize('template.md')));
 ?>
