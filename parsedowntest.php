@@ -16,10 +16,11 @@
 </head>
 
 <body>
+<?php include 'recipe_sidebar.php'; ?>
 <div class="main">
     <?php echo $parsedown->text(fread($file, filesize('template.md'))); ?>
 </div>
 
-<?php require '../footer.php'; ?>
+<?php require 'footer.php'; ?>
 </body>
 </html>
