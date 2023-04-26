@@ -30,11 +30,6 @@ a:hover {
     text-decoration: none;
 }
 
-img {
-    width: 600;
-    height: 600;
-}
-
 h3 {
     color: pink;
 
@@ -60,6 +55,11 @@ h3 {
     display: table;
     margin: 0 auto;
     text-align: left;
+}
+
+.main img {
+    width: 600;
+    height: 600;
 }
 
 /* recipe list stuff */
