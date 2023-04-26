@@ -12,7 +12,7 @@
 
 <head>
 <title>burger_sauce</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="style.css">
 </head>
 
 <body>
