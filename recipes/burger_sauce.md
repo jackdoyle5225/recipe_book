@@ -1,5 +1,3 @@
-Burger Sauce
-
 # Burger Sauce
 
 ![Delicious burger sauce](images/burger_sauce.png)
