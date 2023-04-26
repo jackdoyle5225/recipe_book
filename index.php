@@ -15,6 +15,24 @@
     <div class="main">
         <h1>Recipe Book</h1>
         <p>This website is a collection of recipes I use to keep myself fed :)</p>
+
+        <div class="cards">
+            <div class="row">
+            <div class="column">
+                <div class="card">Card 1</div>
+            </div>
+            <div class="column">
+                <div class="card">Card 2</div>
+            </div>
+            <div class="column">
+                <div class="card">Card 3</div>
+            </div>
+            <div class="column">
+                <div class="card">Card 4</div>
+            </div>
+</div> 
+
+        </div>
     </div>
 
     <!-- footer -->
