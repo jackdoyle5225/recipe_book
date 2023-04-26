@@ -30,6 +30,11 @@ a:hover {
     text-decoration: none;
 }
 
+img {
+    width: 600;
+    height: 600;
+}
+
 h3 {
     color: pink;
 
