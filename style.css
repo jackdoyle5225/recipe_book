@@ -44,7 +44,7 @@ h3 {
     padding: 0px 10px;
 }
 
-/* weird list formatting stuff
+/* list formatting stuff */
 .main ul {
     display: table;
     margin: 0 auto;
@@ -57,8 +57,6 @@ h3 {
     margin: 0 auto;
     text-align: left;
 }
-
-*/
 
 /* recipe list stuff 
 .sidebar {
@@ -78,7 +76,6 @@ h3 {
     color: pink;
 }
 
-*/
 
 
 /* footer stuff */
