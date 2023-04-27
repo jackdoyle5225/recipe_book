@@ -30,7 +30,7 @@
                             <p><b><a href="">Breakfast McMuffins</a></b></p>
                         </div>
                         <div class="card">
-                            <img src="images/the_guys.jpg" width="200" height="200" alt="Carbonara">
+                            <img src="images/carbonara2.jpg" width="200" height="200" alt="Carbonara">
                             <p><b><a href="">Carbonara</a></b></p>
                         </div>
                     </div>
@@ -41,14 +41,14 @@
                             <p><b><a href="">Smash Burgers</a></b></p>
                         </div>
                         <div class="card">
-                            <img src="images/the_guys.jpg" width="200" height="200" alt="Garlic Butter Steak">
+                            <img src="images/steak_halloumi.jpg" width="200" height="200" alt="Garlic Butter Steak">
                             <p><b><a href="">Garlic Butter Steak</a></b></p>
                         </div>
                     </div>
 
                     <div class="column">
                         <div class="card">
-                            <img src="images/the_guys.jpg" width="200" height="200" alt="Chicken Parmesan Pasta">
+                            <img src="images/chicken_parm_pasta.jpg" width="200" height="200" alt="Chicken Parmesan Pasta">
                             <p><b><a href="">Chicken Parmesan Pasta</a></b></p>
                         </div>
                         <div class="card">
@@ -59,11 +59,11 @@
 
                     <div class="column">
                         <div class="card">
-                            <img src="images/the_guys.jpg" width="200" height="200" alt="Quesadillas">
+                            <img src="images/quesadilla_guac.jpg" width="200" height="200" alt="Quesadillas">
                             <p><b><a href="">Quesadillas</a></b></p>
                         </div>
                         <div class="card">
-                            <img src="images/the_guys.jpg" width="200" height="200" alt="Chicken Katsu Curry">
+                            <img src="images/katsu.jpg" width="200" height="200" alt="Chicken Katsu Curry">
                             <p><b><a href="">Chicken Katsu Curry</a></b></p>
                         </div>
                     </div>
@@ -129,11 +129,11 @@
 
                     <div class="column">
                         <div class="card">
-                            <img src="images/the_guys.jpg" width="200" height="200" alt="Halloumi Fries">
+                            <img src="images/steak_halloumi.jpg" width="200" height="200" alt="Halloumi Fries">
                             <p><b><a href="">Halloumi Fries</a></b></p>
                         </div>
                         <div class="card">
-                            <img src="images/" width="200" height="200" alt="Garlic Bread">
+                            <img src="images/garlic_bread.jpg" width="200" height="200" alt="Garlic Bread">
                             <p><b><a href="">Crusty Garlic Bread</a></b></p>
                         </div>
                     </div>
