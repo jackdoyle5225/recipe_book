@@ -6,9 +6,6 @@
 </head>
 
 <body>
-<!-- recipe list -->
-<?php include '../recipe_sidebar.php'; ?>
-
 <!-- recipe -->
 <div class="main">
     <h1 id="brownies">Ciara's Brownies</h1>

@@ -6,9 +6,6 @@
 </head>
 
 <body>
-<!-- recipe list -->
-<?php include '../recipe_sidebar.php'; ?>
-
 <!-- recipe -->
 <div class="main">
 
