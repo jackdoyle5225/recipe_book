@@ -8,9 +8,6 @@
 </head>
 
 <body>
-    <!-- recipe list -->
-    <?php require 'sidebar.php'; ?>
-    
     <!-- main page content-->
     <div class="main">
         <h1>Recipe Book</h1>
